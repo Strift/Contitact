@@ -1,0 +1,257 @@
+body {
+background-color : #999999;
+color   : white;
+margin: 0;
+padding: 0;
+font: 12 comic sans ms, arial, sans-serif;
+}
+
+
+a
+{
+color   : white;
+margin: 0;
+padding: 0;
+font: 14 comic sans ms, arial, sans-serif;
+text-decoration: none;
+}
+
+a:hover {
+    background-color: #A2A2A2;
+    color: #000000;
+}
+
+table th
+{
+font: 20 comic sans ms, arial, sans-serif;
+color: white;
+}
+
+table td
+{
+	color: #F0F0F0;
+ }
+
+H1 {
+	font: 24 comic sans ms, arial, sans-serif;
+	color : white;
+}
+	
+H2 {
+	color : white;
+	font: 16 comic sans ms, arial, sans-serif;
+	margin-left: 30;
+}
+
+H3	{
+	color : white;
+	font: 14 comic sans ms, arial, sans-serif;	
+	margin-left: 60;
+	}
+
+H3.wood	{
+	color : white;
+	font: 10 comic sans ms, arial, sans-serif;	
+	margin-left: 0;
+	}
+
+H4	{
+	color : white;
+	font: 11 comic sans ms, arial, sans-serif;	
+	}	
+
+H5	{
+	color : black;
+	font: 10 comic sans ms, arial, sans-serif;
+	}	
+
+H5:hover	{
+	color : white;
+	font: 10 comic sans ms, arial, sans-serif;	
+	}	
+
+FONT {
+		size : 7;
+		font: 24 comic sans ms, arial, sans-serif;
+}
+
+BASEFONT {
+		size : 7;
+		font: 24 comic sans ms, arial, sans-serif;
+}
+
+SELECT {
+		background-color : black;
+		color   : white;		
+}	
+
+INPUT {
+		background-color : black;
+		color   : white;
+		foreground-color: red;
+//		font-weight: bolder;	
+}
+
+OPTION {
+		background-color : black;
+		color   : #FFFFFF;
+		cursor: pointer;		
+}
+
+div.c a {	
+  color : white;
+	font: 11 comic sans ms, arial, sans-serif;	
+	}
+  
+div.c a:hover {
+	color :#000000;
+	font: 11  comic sans ms, arial, sans-serif;
+	
+}
+
+
+
+OPTION:hover {
+    background-color: #000000;
+    foregroud-color:#FFFFF;
+    color: red;
+    cursor: pointer;
+}
+
+div.attribute a{
+	display: none
+	background-color : #A2A2A2;
+    font-weight: bolder;
+    color: #000000;
+	
+}
+
+div.name hr {
+    display: none;
+}
+
+div.name H1:hover {
+	background-color : #A2A2A2;
+    font-weight: bolder;
+    color: #000000;
+	}
+
+div.name H2:hover {
+		background-color : #FF0000;
+	    font-weight: bolder;
+        color: #000000;
+}
+
+div.name H2:hover {
+		background-color : #A2A2A2;
+	    font-weight: bolder;
+        color: #000000;
+}
+	
+div.name a {
+    text-decoration: none;
+    color   : white;
+	margin: 5;
+	padding: 5;
+//	font: 14 comic sans ms, arial, sans-serif;
+	text-decoration: none;
+}
+
+div.name a:hover {
+	background-color : #A2A2A2;
+	//    background-color: #000000;
+    //font-weight: bolder;
+    color: 	;
+}
+
+div.name {
+    text-align: center;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #000000;
+    font-weight: bold;
+    left: 0px;
+    /* following MSIE hack was originally written by Riki Fridrich
+     * <http://www.fczbkk.com> */
+    position: expression("absolute");
+    width: expression(document.body.clientWidth);
+    top: expression(document.body.scrollTop + this.offsetHeight - this.offsetHeight);
+}
+
+div.vop H1 {
+	font: 18 comic sans ms, arial, sans-serif;
+	color : white;
+}
+
+div.vop HR {
+	font: 18 comic sans ms, arial, sans-serif;
+	color : white;
+  align : left;
+}
+div.vop H2 {
+	font: 18 comic sans ms, arial, sans-serif;
+	color : white;
+  align : left;
+}
+div.vop TABLE {  
+  border-width: 0px;
+  cell-padding: 0px; 
+  cell-spacing: 0px; 
+  }
+
+div.vop a
+{
+border : 0;
+color   : white;
+margin: 0;
+padding: 0;
+font: 14 comic sans ms, arial, sans-serif;
+//text-decoration: none;
+}
+div.vop a:hover {
+    background-color: #A2A2A2;
+    color: #000000;
+}
+  
+  
+div.vocaa a {
+	font: 7 comic sans ms, arial, sans-serif;
+	color : white;
+}
+div.vocaa TH {
+	font: 14 comic sans ms, arial, sans-serif;
+	color : white;
+	font-weight: bold;
+}
+div.vocaa TD {
+	font: 8 comic sans ms, arial, sans-serif;
+	color : white;
+}
+div.vocaa FONT {
+		size : 4;
+		font: 4 comic sans ms, arial, sans-serif;
+}
+div.vocaa H5 {	
+		font: 12 comic sans ms, arial, sans-serif;
+    color : white;  
+}
+
+div.vocaa BASEFONT {
+		size : 7;
+		font: 7 comic sans ms, arial, sans-serif;
+}		
+
+div.soc LI {
+  color : white;
+	font: 11 comic sans ms, arial, sans-serif;
+}
+
+div.soc a
+{
+  font: 15 comic sans ms, arial, sans-serif;
+	color : white;
+}
+
+div.soc a:hover {
+  font: 15 comic sans ms, arial, sans-serif;
+  background-color: #A2A2A2;
+}

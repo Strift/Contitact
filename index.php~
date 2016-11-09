@@ -1,0 +1,10 @@
+<html><head><link rel="icon" href="./favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />	
+<link href="./STYLE/style.css" rel="stylesheet" type="text/css"></head><title>Contitact 2.0</title>
+<frameset cols="240,*" rows="*"  border="0" frameborder="0" framespacing="0" name="mainFrameset" id="mainFrameset" scrollable="no">
+<frameset rows="600, *" framespacing="0" frameborder="1" border="0" name="Rightcolumn" id="leftFrameset"  scrollable="no">
+<frame src="navigate.php" name="top" frameborder="1"  />
+<frame src="blank.php" name="menu" frameborder="0" />
+</frameset>
+<frame src="description.html" name="main" frameborder="0" />
+<noframes>        <body bgcolor="#FFFFFF"></body>
+    </noframes></frameset>	</html>
